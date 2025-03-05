@@ -9,7 +9,7 @@ is a branch of computer science used for developing, testing and maintaining sof
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-  Mastering comlexity (1960s -1970s) -> Due to evolvement of logical structures such as loops and funcions that replaced the initial "spaghetti code" that was complex. This lead to better readability and emergence of more user friendly programming languages and made debugging easy.
+  Mastering complexity (1960s -1970s) -> Due to evolvement of logical structures such as loops and funcions that replaced the initial "spaghetti code" that was complex. This lead to better readability and emergence of more user friendly programming languages and made debugging easy.
   Mastering process (1970s - 1980s) -> The waterfall model that was introduced by Winston Royce was one of the software development processes. This led to splitting software development life cycle into distinct phases: requirements, design, implementation, testing and designing. 
   Mastering Machine (1980s) -> This was the start and evolving of Object Oriented Programming it intoduced cases like objects classes , inheritance and polymorphism.  Languages like Java and C++ gained popularity. This was the foundation to modern software and frameworks.
 
